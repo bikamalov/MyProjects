@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Madi's" Calculator</string>
+    <string name="item_settings">Продвинутый калькулятор</string>
+    <string name="item_settings2">Обычный калькулятор</string>
+</resources>
